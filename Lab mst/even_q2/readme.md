@@ -23,3 +23,5 @@ WHERE salary = (
     FROM employees3
     WHERE salary < (SELECT MAX(salary) FROM employees3)
 );
+
+<img width="448" height="76" alt="image" src="https://github.com/user-attachments/assets/99c1d7a9-873c-4fee-82da-f7c976fcbf76" />
