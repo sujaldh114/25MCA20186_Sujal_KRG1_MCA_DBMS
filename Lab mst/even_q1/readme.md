@@ -25,3 +25,5 @@ JOIN employees3 e2
 ON e1.manager_id = e2.manager_id
 AND e1.emp_id < e2.emp_id
 WHERE e1.manager_id IS NOT NULL;
+
+<img width="549" height="198" alt="image" src="https://github.com/user-attachments/assets/12e84c33-d60c-4a72-b203-eb733bdb342a" />
